@@ -1,0 +1,3 @@
+search engine id = '014018057076316029956:usuudbkqbmo'
+
+google key = 'AIzaSyB4fia9jimxfUcqwhWu1NtexOhypEwHuoE'
